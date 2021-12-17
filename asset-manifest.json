@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-Redux-ToDoList/static/css/main.4f565309.css",
+    "main.js": "/React-Redux-ToDoList/static/js/main.eabf9f17.js",
+    "static/media/0.jpg": "/React-Redux-ToDoList/static/media/0.93221e4d4f8370b472cb.jpg",
+    "index.html": "/React-Redux-ToDoList/index.html",
+    "main.4f565309.css.map": "/React-Redux-ToDoList/static/css/main.4f565309.css.map",
+    "main.eabf9f17.js.map": "/React-Redux-ToDoList/static/js/main.eabf9f17.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f565309.css",
+    "static/js/main.eabf9f17.js"
+  ]
+}
